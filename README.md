@@ -9,7 +9,6 @@ REST API
 MySQL
 JPA Hibernate
 JavaMail API
-Spring Security
 ```
 
 ## Features:
@@ -30,5 +29,4 @@ JPA Hibernate used to interact with the database
 Lombok used to reduce boilerplate code
 Swagger used to document the REST API
 MySQL used to store and retrieve customer and product data
-Security features implemented using Spring Security
 ```
